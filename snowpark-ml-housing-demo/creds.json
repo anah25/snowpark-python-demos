@@ -1,8 +1,8 @@
 {
-   "username": "<YOUR_USERNAME>",
-   "password": "<YOUR_PASSWORD>",
-   "sf_account": "<SF_ACCOUNT>",
-   "sf_wh": "<WH_NAME>",
-   "sf_db": "<DATABASE>",
-   "sf_schema": "<SCHEMA>"
+   "username": "anamhuluba",
+   "password": "M@maliga13",
+   "sf_account": "kb35457.eu-west-1",
+   "sf_wh": "COMPUTE_WH",
+   "sf_db": "housing_demo",
+   "sf_schema": "PUBLIC"
 }

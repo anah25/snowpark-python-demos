@@ -1,7 +1,7 @@
 {
-   "account": "x",
-   "user": "x",
-   "password": "x",
+   "account": "https://kb35457.eu-west-1",
+   "user": "anamhuluba",
+   "password": "M@maliga13",
    "database": "SUMMIT_DB",
    "schema": "CHURN",
    "warehouse": "BI_MEDIUM_WH"

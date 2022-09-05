@@ -1,0 +1,13 @@
+name: snowpark_ml_test
+channels:
+  - snowflake
+dependencies:
+  - python=3.8
+  - snowflake-snowpark-python
+  - ipykernel
+  - pyarrow
+  - numpy
+  - scikit-learn
+  - pandas
+  - joblib
+  - cachetools
